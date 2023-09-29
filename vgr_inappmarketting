@@ -1,0 +1,31 @@
+{
+  "developer_info": {
+    "name": "Your Name",
+    "image_url": "https://example.com/your_image.jpg",
+    "description": "A passionate app developer"
+  },
+  "android_apps": [
+    {
+      "name": "App 1",
+      "package_name": "com.example.app1",
+      "image_url": "https://example.com/app1.png"
+    },
+    {
+      "name": "App 2",
+      "package_name": "com.example.app2",
+      "image_url": "https://example.com/app2.png"
+    }
+  ],
+  "ios_apps": [
+    {
+      "name": "iOS App 1",
+      "app_id": "123456789",
+      "image_url": "https://example.com/ios_app1.png"
+    },
+    {
+      "name": "iOS App 2",
+      "app_id": "987654321",
+      "image_url": "https://example.com/ios_app2.png"
+    }
+  ]
+}
